@@ -5,6 +5,8 @@ INDITEX sells more than a billion products each year worldwide, among all their 
 
 We propose a solution to this problem: generating semi-automatic descriptions of the products, using their images and some basic features.
 
+To do this, we used the multimodal LLM model **Idefics2** from Hugging Face. See documentation here: https://huggingface.co/docs/transformers/main/en/model_doc/idefics2#transformers.Idefics2ForConditionalGeneration
+
 ### Technologies used
 - Python
 - Jupyter Notebook
